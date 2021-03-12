@@ -1,0 +1,9 @@
+body{
+	font-family: 'Droid Sans', sans-serif;
+	font-size:100%;
+	background: url(../images/login_background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}

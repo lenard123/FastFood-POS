@@ -1,0 +1,46 @@
+body{
+	font-family: 'Droid Sans', sans-serif;
+	font-size:100%;
+	background: url(../images/login_background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.login-box .card{
+	border:none;
+	border-radius: 0;
+}
+
+.login-box .card-header{
+	background: #6D4A70;
+	border-radius: 0;
+}
+
+.login-box h1{
+	color: #fff;
+	font-size: 1.5em;
+	text-align: left;
+	margin: 0 15px;
+}
+
+.login-box .submit{
+	background: #6D4A70;
+	color: white;
+	padding: 12px 0px;
+	width: 35%;
+	box-sizing: content-box;
+}
+
+.login-box .submit:hover {
+	background: #fff;
+	color:#6C496F;
+	border:1px solid #6C496F;
+}
+
+
+.login-box .alert{
+	font-size: 0.8rem;
+	padding-bottom: 3px;
+}
